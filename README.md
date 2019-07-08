@@ -15,8 +15,8 @@
   + third.first
   + third.second 
   + third.third
-  + new string
-  + extra info
+  + new stroka
+  + extra information
   
 ## Таблица с названиями статей и статусом готовности
 
