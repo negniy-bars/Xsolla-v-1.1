@@ -11,10 +11,12 @@
 # Тут будет нумерация задач по степени важности
 1. First
 2. Second
-+ Third
+3. Third
   + third.first
   + third.second 
   + third.third
+  + new string
+  + extra info
   
 ## Таблица с названиями статей и статусом готовности
 
