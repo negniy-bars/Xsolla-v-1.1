@@ -18,7 +18,8 @@
   + new stroka
   + extra information
 4. Hello1
-5. Hello2  
+5. Helo2
+
 ## Таблица с названиями статей и статусом готовности
 
 |Задача|Статус|
